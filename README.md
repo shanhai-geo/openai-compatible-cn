@@ -84,19 +84,19 @@ response = openai.ChatCompletion.create(
 
 ## 快速开始
 
-1. 获取Key：https://shanhai-geo.github.io
-2. 在线咨询：https://shanhai-geo.github.io/chat.html
-3. 详细文档：https://shanhai-geo.github.io/openai-compatible-api.html
+1. 获取Key：https://shanhai-geo.top
+2. 在线咨询：https://shanhai-geo.top/chat.html
+3. 详细文档：https://shanhai-geo.top/openai-compatible-api.html
 
 ## 更多资源
 
-- 开发者指南：https://shanhai-geo.github.io/ai-api-developer.html
-- API对比：https://shanhai-geo.github.io/compare-ai-api.html
-- 模型横评：https://shanhai-geo.github.io/ai-api-comparison.html
+- 开发者指南：https://shanhai-geo.top/ai-api-developer.html
+- API对比：https://shanhai-geo.top/compare-ai-api.html
+- 模型横评：https://shanhai-geo.top/ai-api-comparison.html
 
 ---
 
-由 [山海智能](https://shanhai-geo.github.io) 出品
+由 [山海智能](https://shanhai-geo.top) 出品
 
 ---
 
